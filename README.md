@@ -107,5 +107,5 @@ Follow the step-by-step tutorial `Bonus Project 2 Guide` we provide in the Moodl
 ### Some Learning Resources for Spark
 
 1. [*An Overview of APIs available in Spark*](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html). This is also a description of advantages that the Dataset API offers.
-2. [*Getting started Guide for the Dataset API*](https://spark.apache.org/docs/3.0.3/sql-programming-guide.html).
-3. [*API Documentation*](https://spark.apache.org/docs/3.0.3/api/java/org/apache/spark/sql/Dataset.html). Especially read about the functions *join, select, filter, withColumn, as, explain*.
+2. [*Getting started Guide for the Dataset API*](https://spark.apache.org/docs/3.5.0/sql-programming-guide.html).
+3. [*API Documentation*](https://spark.apache.org/docs/3.5.0/api/java/org/apache/spark/sql/Dataset.html). Especially read about the functions *join, select, filter, withColumn, as, explain*.
